@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 37f876463ccbe1c4fb065f74a13e591f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loading: {instanceID: 0}
+  - d3D: {instanceID: 0}
+  - d2D: {instanceID: 0}
+  - RestartBtn: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - effectGrp: {fileID: -838662271350585252, guid: 6b10fe638e922e04bb45412b97b2a978, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
